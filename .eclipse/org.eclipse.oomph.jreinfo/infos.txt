@@ -1,0 +1,1 @@
+C:\Program Files (x86)\Java\jre1.6.0_43;1;6;0;32;false;1638221896314;x86

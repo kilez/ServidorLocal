@@ -1,0 +1,45 @@
+{
+	"analytics-uuid": "15908ef3-1166-4739-9181-2e95a4cca5cc",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1643129646475
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "110370558781227245323",
+		"email": "javierquilesgutierrez@gmail.com",
+		"email_verified": true,
+		"at_hash": "2Qic5ADmh8ActrTmFC3b_w",
+		"iat": 1640609827,
+		"exp": 1640613427
+	},
+	"tokens": {
+		"expires_at": 1643133272815,
+		"refresh_token": "1//0fxc2d_XPWBLDCgYIARAAGA8SNgF-L9IrtGhqYm_gxjhHBP2KvIcdMMGnjVZjypRKhYpHcl2r-s4kgi9Oiwa4XxIJWobdO1--Vw",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.A0ARrdaM-upbOKyabeNANkO7Re5XTepkht4W7lnGSdM04UX_xf9i-ulBGppTA_4NCIrRX7ZGdoaME8jScLE5kVqz4sPQOuEZODSxh5KXJ1pct-qfQ5W9RUrM-3FoU5h8QowyxcGvmFEG1xXitMXj1uooRVN0yX49zFnRJrkxI",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImNhMDA2MjBjNWFhN2JlOGNkMDNhNmYzYzY4NDA2ZTQ1ZTkzYjNjYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTEwMzcwNTU4NzgxMjI3MjQ1MzIzIiwiZW1haWwiOiJqYXZpZXJxdWlsZXNndXRpZXJyZXpAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJfaXhXRDhFaXpGUHBrTHBSQXJDWVR3IiwiaWF0IjoxNjQzMTI5NjczLCJleHAiOjE2NDMxMzMyNzN9.lyLyb3ESuZ2r2XGTuN25FbqUBM71Fvs7Hr6vnEOPSErezyhepZk6RiILP-lelMrBgD2hbqGAhfh2r7t2ovAMnvRLPIsXeUWqGVQzhRgQ9F2jmI1TWHbKhUd8gV7sXF2swVsxnMjbbNUnG0z_L2_tN3XBASoSMsc5Findl9BEYeEC6OYfGZMH1kx11oy4z9bzDrVheoNl8cegvu0FRDgT0_tXKalxY40_JJhI7bTTe6BUJJtOuVKScbtp4NhIUZyhS-wTJkKB0aREEFQwmal2xnJGtQoeaQyhMAepxriNsMQbXx9f4SEVtacaNZtZoQosskBk9W6TElgRwWd2CyUBEA"
+	},
+	"activeProjects": {
+		"C:\\Users\\joseq3\\OneDrive - kochind.com\\Documentos\\05-Programas\\Angular\\debug\\dist": "debug-molex",
+		"C:\\Users\\joseq3\\OneDrive - kochind.com\\Documentos\\05-Programas\\Angular\\debug": "debug-molex"
+	}
+}

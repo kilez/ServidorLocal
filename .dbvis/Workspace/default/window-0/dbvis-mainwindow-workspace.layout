@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><LayoutPersistence>
+    <DockingManager activeFrame="object-view" frameState="6" persistenceName="0" version="20">
+        <Bounds height="1058" width="1938" x="1911" y="-9"/>
+        <DockContext autohideHeight="200" autohideWidth="200" available="1" canMode="15" currentDockSide="8" currentMode="4" dockId="43142" dockedHeight="200" dockedWidth="200" initAutohideHeight="200" initAutohideWidth="200" initIndex="0" initMode="4" initPosition="1" initSide="8" key="object-view">
+            <UndockedBounds height="500" width="800" x="-1" y="-1"/>
+            <InitUndockedBounds height="500" width="800" x="-1" y="-1"/>
+            <DockPreviousState dockId="43142" fcId="32874" index="0" mode="4" rootId="2" side="8" type="close">
+                <Bounds height="745" width="1263" x="0" y="0"/>
+                <DockChild dockId="43142"/>
+                <DockParentState ccId="44946" dockId="32874" orientation="1">
+                    <DockChild dockId="32874"/>
+                    <DockChild dockId="-1"/>
+                </DockParentState>
+            </DockPreviousState>
+        </DockContext>
+        <ContainerContainer dockId="60382" initiallyEven="0" orientation="0" proportionLayout="0">
+            <ContainerContainer dockId="44946" initiallyEven="0" orientation="1" proportionLayout="0">
+                <FrameContainer dockId="32874" selectedIndex="0">
+                    <DockableFrame key="object-view"/>
+                </FrameContainer>
+                <Workspace acceptDockableFrame="0"/>
+            </ContainerContainer>
+        </ContainerContainer>
+        <AutoHideContainer side="3"/>
+        <AutoHideContainer side="7"/>
+        <AutoHideContainer side="5"/>
+        <AutoHideContainer side="1"/>
+    </DockingManager>
+</LayoutPersistence>
